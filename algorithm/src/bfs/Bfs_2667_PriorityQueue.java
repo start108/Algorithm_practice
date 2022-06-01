@@ -16,7 +16,7 @@ public class Bfs_2667_PriorityQueue {
 	static int[] dy = { 0, 0, -1, 1 };
 	static PriorityQueue<Integer> pq;
 	
-	static void inputProcessing() throws IOException { //
+	static void inputProcessing() throws IOException {
 		
 		BufferedReader br = new BufferedReader( new InputStreamReader( System.in ));
 		
